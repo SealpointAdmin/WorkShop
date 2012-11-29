@@ -1,0 +1,4 @@
+platform:ios
+
+pod 'MKNetworkKit', '0.85'
+pod 'JSONKit', '1.4'
